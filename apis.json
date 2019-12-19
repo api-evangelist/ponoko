@@ -1,0 +1,75 @@
+{
+    "name": "Ponoko",
+    "description": "Laser cutting & engraving for makers & businesses ??? Your product designs custom made by our designers & robots, fast. Make your first product FREE",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/49-ponoko.jpg",
+    "tags": [
+        "3d printing",
+        "have api",
+        "manufacturing",
+        "marketplaces",
+        "sharing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ponoko\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ponoko",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/49-ponoko.jpg",
+            "humanURL": "https:\/\/www.ponoko.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ponoko-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.ponoko.com\/services\/api\/v2\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.ponoko.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/Ponoko"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ponoko"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/ponoko"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.ponoko.com\/app-gateway\/api-documentation"
+        },
+        {
+            "type": "Email",
+            "url": "service@ponoko.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Ponoko"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ponoko"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.ponoko.com\/"
+        }
+    ]
+}
