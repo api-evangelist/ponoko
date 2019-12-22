@@ -9,8 +9,8 @@
         "marketplaces",
         "sharing"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ponoko\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -24,13 +24,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ponoko-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ponoko\/master\/ponoko-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ponoko\/master\/ponoko-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Base",
             "url": "http:\/\/www.ponoko.com\/services\/api\/v2\/"
